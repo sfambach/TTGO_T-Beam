@@ -1,0 +1,15 @@
+[submodule "lib/arduino-LoRa"]
+	path = lib/arduino-LoRa
+	url = https://github.com/sandeepmistry/arduino-LoRa
+[submodule "lib/esp8266-oled-ssd1306"]
+	path = lib/esp8266-oled-ssd1306
+	url = https://github.com/ThingPulse/esp8266-oled-ssd1306
+[submodule "lib/pubsubclient"]
+	path = lib/pubsubclient
+	url = https://github.com/knolleary/pubsubclient
+[submodule "lib/TinyGPSPlus"]
+	path = lib/TinyGPSPlus
+	url = https://github.com/mikalhart/TinyGPSPlus
+[submodule "lib/AXP202X_Library"]
+	path = lib/AXP202X_Library
+	url = https://github.com/lewisxhe/AXP202X_Library
